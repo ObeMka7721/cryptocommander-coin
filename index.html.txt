@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoCommander Coin</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CryptoCommander Coin (CCC)</h1>
+    </header>
+    <main>
+        <section id="hero">
+            <img src="path/to/your/image.jpg" alt="CryptoCommander Coin">
+            <h2>Добро пожаловать в мир CryptoCommander Coin</h2>
+            <p>Символ стойкости и инноваций в мире криптовалют.</p>
+        </section>
+        <section id="story">
+            <h2>Наша история</h2>
+            <p>В далекой криптовалютной галактике, в виртуальной зоне боевых действий, появился новый вид войска — Жабьи Коммандос...</p>
+        </section>
+        <section id="features">
+            <h2>Особенности</h2>
+            <ul>
+                <li>Защита блокчейнов</li>
+                <li>Охрана децентрализованных узлов</li>
+                <li>Финансирование крипто-новшеств</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 CryptoCommander Coin. Все права защищены.</p>
+    </footer>
+</body>
+</html>
